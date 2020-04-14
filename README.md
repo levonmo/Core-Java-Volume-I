@@ -5,13 +5,6 @@ README
 clone在本地，按照/fundamental/src/test/Test1.java里面的顺序一个个点进去看  
 * 正文开始: https://github.com/mowenlong/Core-Java-Volume-I/blob/master/fundamental/src/test/Test1.java
 ****
-	
-|Author|龙|
-|---|---
-|E-mail|741321320@qq.com
-|Website|http://www.mowenlong.com
-|CSDN|https://blog.csdn.net/weixin_38104426
-
 
 ****
 ## 目录
